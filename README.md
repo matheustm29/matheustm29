@@ -20,6 +20,7 @@
 Apaixonado por programação e análise de dados, estudante de engenharia de computação na UTFPR.
 ## Projetos
 
+- [Resume](https://matheustm29.github.io/Resume/)<br>
 - [Redes Sociais](https://matheustm29.github.io/projeto-social/)<br>
 - [Cordel Moderno](https://matheustm29.github.io/projeto-cordel/)<br>
 - [Android](https://matheustm29.github.io/projeto-android/)<br>
